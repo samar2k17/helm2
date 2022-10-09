@@ -63,6 +63,7 @@
 - helm package firstchart -u,-d /home/sam
 # lint
 - helm lint firstchart
+- https://siweheee.medium.com/deploy-your-programs-onto-minikube-with-docker-and-helm-a68097e8d545
 
 
 
